@@ -1,5 +1,6 @@
 # Transportation-Driver-Performance-Analysis
 Analysis of trucking company data.
+
 Medium.com publication:
 
 https://medium.com/@serorl0v/ranking-and-optimization-in-analytics-practical-examples-b790f088e426
