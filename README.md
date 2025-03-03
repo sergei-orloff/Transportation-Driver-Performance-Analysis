@@ -1,9 +1,7 @@
-# Transportation-Driver-Performance-Analysis
+# Correlation Project: Driver Performance Analysis
 ________________________________________________
 
 This document details a data analysis project focused on driver performance within a trucking company, AIDispatcher, Inc. The project aims to uncover relationships between driver performance metrics and financial outcomes.
-
-# Correlation Project
 
 ## Key Objectives:
 - Identify correlations between fuel efficiency, miles driven, earnings, workdays, and performance scores.
